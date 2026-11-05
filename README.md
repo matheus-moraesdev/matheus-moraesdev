@@ -30,7 +30,7 @@ Sempre gostei de tecnologia e tenho buscado aprender cada vez mais sobre program
 
 ## 📫 Onde me encontrar
 
-- GitHub: [@SEU_USUARIO](https://github.com/matheus-moraesdev)
+- GitHub:(https://github.com/matheus-moraesdev)
 - Email: matheusmoraes.vaz07@gmail.com
 - Telefone: 55+ (15)99854-0396
 
