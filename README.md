@@ -21,12 +21,6 @@ Sempre gostei de tecnologia e tenho buscado aprender cada vez mais sobre program
 - Java
 - Git e GitHub
 
-## 📊 Meu GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-moraesdev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-moraesdev&layout=compact&theme=tokyonight)
-
 ## 📫 Onde me encontrar
 
 - GitHub: (https://github.com/matheus-moraesdev)
